@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\main",
+    "\\main\\templates",
+    "\\main\\templates\\hod_template",
+    "\\main\\templates\\staff_template"
+  ],
+  "SelectedNode": "\\main\\hod_views.py",
+  "PreviewInSolutionExplorer": false
+}
